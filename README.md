@@ -34,7 +34,7 @@ Este projeto demonstra como usar os serviços do Azure AI, como **Form Recognize
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise-documentos-anti-fraude.git
+   git clone https://github.com/mario-evangelista/analise-documentos-anti-fraude.git
    cd analise-documentos-anti-fraude
    ```
 
