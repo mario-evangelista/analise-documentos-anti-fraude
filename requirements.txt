@@ -1,0 +1,3 @@
+azure-ai-formrecognizer
+azure-cognitiveservices-vision-computervision
+msrest
